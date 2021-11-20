@@ -18,6 +18,6 @@ Em sua estrutura consta de vários pequenos projetos com exemplos, que permitira
 Além destes projetos, outros projetos aplicando este conhecimento foram desenvolvidos como exercício:
 
 1. Basic_Calculate - utilizando Gradle;
-2. Generator_numbers - import java.util,Random
+2. Generator_numbers - import java.uti.Random
 3. Test_Automatizado - junit 
 
