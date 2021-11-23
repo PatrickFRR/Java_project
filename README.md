@@ -7,7 +7,7 @@ Bem vindos! Neste é um repositório se exemplifica como programar em Java Orien
 
 ## Projetos
 
-1. Ex_Date_Type - uso de tipos de dados primitivos, identificadores, variavéis e constantes como elementos chaves na criação de qualquer programa;
+1. Ex_Date_Type- uso de tipos de dados primitivos, identificadores, variavéis e constantes como elementos chaves na criação de qualquer programa;
 2. Ex_Operadores_Projects - uso dos tipos de operadores que são possivéis de manipular em Java;
 3. Ex_Structures_Projects - uso das estruturas de controle necessárias para controlar o fluxo dos dados;
 4. Ex_Method - uso adequado dos métodos e parâmetros;
