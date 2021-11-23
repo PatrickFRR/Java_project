@@ -1,9 +1,8 @@
 # Java_project
 
+Repositório de exercícios e exemplos em JAVA.
 
-Este projeto se exemplifica como programar em Java Orientado a Objetos. 
-
-Em sua estrutura consta de vários pequenos projetos com exemplos, que permitiram expor de forma concreta conceitos essenciais de um bom desenvolvedor de Java. 
+Bem vindos! Neste é um repositório se exemplifica como programar em Java Orientado a Objetos, onde você pode encontrar vários pequenos projetos com exemplos, que permitiram expor de forma concreta conceitos essenciais de um bom desenvolvedor de Java. 
 
 
 ## Projetos
