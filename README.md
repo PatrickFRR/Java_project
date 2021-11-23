@@ -13,6 +13,7 @@ Em sua estrutura consta de vários pequenos projetos com exemplos, que permitira
 3. Ex_Structures_Projects - uso das estruturas de controle necessárias para controlar o fluxo dos dados;
 4. Ex_Method - uso adequado dos métodos e parâmetros;
 5. Ex_Class_Objetcs - implementação adequada das classe e dos objetos;
+6. Ex_Loops - uso de loops de repetição e operadores matemáticos;
 
 
 Além destes projetos, outros projetos aplicando este conhecimento foram desenvolvidos como exercício:
